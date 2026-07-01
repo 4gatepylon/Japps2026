@@ -1,0 +1,46 @@
+Amazon (AGI SF lab)  RL Infra: https://amazon.jobs/en/jobs/3116079/member-of-technical-staff-reinforcement-learning-infrastructure-agi-autonomy
+Amazon (AGI SF lab) Multimodal Reasoning: https://www.amazon.jobs/en/jobs/3172291/member-of-technical-staff-multimodal-reasoning-applied-science-agi-autonomy
+Augment Code (SWE/Applied AI Engineer): https://job-boards.greenhouse.io/augmentcomputing/jobs/5279294008
+Baseten (various options; infrastructure, finetuning, maybe performance): https://jobs.ashbyhq.com/baseten
+Resolve AI (see if there is research engineer for SFT/RL): https://jobs.ashbyhq.com/Resolve%20AI/588a0c76-41df-436a-9b70-23d8728a77ee
+(agents) Cleric
+(agents) Traversal
+(agents) WorkOS: https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b
+Google/GDM TBD
+Windsurf/Jetski TBD (was on AIE page but obv. this is part of GDM)
+Anthropic TBD
+OpenaI TBD
+Reducto (ML Eng. but there are multiple): https://reducto.ai/careers/aac35219-c38c-4490-8050-cee52e7dcf6b
+Together AI TBD
+Fireworks AI TBD
+Etched (accelerator SWE, but there are others): https://jobs.ashbyhq.com/etched/8e280db7-f954-4467-b3ea-b9b4386d6632
+MatX TBD
+(swe) Greptile (generalist): https://www.greptile.com/careers/generalist-engineer
+(swe) MSFT: https://apply.careers.microsoft.com/careers/job/1970393556857971 (or maybe https://apply.careers.microsoft.com/careers/job/1970393556867062? this isn't an excellent fit; maybe https://apply.careers.microsoft.com/careers/job/1970393556642473?)
+(swe) Github: https://www.github.careers/careers-home/jobs/5507?lang=en-us
+Modal: https://jobs.ashbyhq.com/modal/af17da5e-23ca-4802-854d-5f0546e1ed32 or https://jobs.ashbyhq.com/keycard-labs/f22299ab-be51-4ba5-a762-f6c8c52dc409
+(bad location) Modular (senior though...?): https://www.modular.com/company/career-post?am9icG9zdDpTSwqoL-yL11N_jxR40Vhh&gh_jid=am9icG9zdDpTSwqoL-yL11N_jxR40Vhh
+Optiver: https://www.optiver.com/join-us/jobs/technology/new-york/machine-learning-performance-engineer/?gh_jid=8405271002&gh_src=n6sogvun2us
+JS TBD
+Citadel TBD
+Jump TBD
+(swe) Orb (this is full-stack though): https://www.withorb.com/careers?ashby_department_id=117fc8d1-6e00-4386-a04f-ac4c4e821429&ashby_location_id=720a19c6-0e80-427a-89ee-4469daf1edd4&ashby_jid=b39f70d0-aaa9-46c1-896a-b064a1d3b2cc
+Posthog (research engineer; main downside seems to be that it is remote): https://posthog.com/careers/ai-research-engineer
+Cursor/Xai TBD
+(agents) Factory TBD
+(agents) Cognition TBD
+(agents) Sentry: https://jobs.ashbyhq.com/sentry/6eb8d5f2-977e-4ff4-bdbe-fccb8747b5d7 (eh not a great fit)
+(agents) Sierra: https://jobs.ashbyhq.com/Sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e (note this is agent engineering, of which there are probably a bunch and which is not the focus)
+(agents) Salesforce TBD
+Zed: TBD
+
+What this seems to cover in knowledge and capabilities that I should have:
+- Distributed systems
+- Compilers
+- Algorithms
+- SFT and RL and/or machine learning algorithms
+- Inference and ML Optimization
+- Kernel development
+- Interpretability
+- Agentic coding (probably want to axe this)
+(unclear if this might be too broad/I will be spread too thin; I think we axe anything that requires frontend basically)
