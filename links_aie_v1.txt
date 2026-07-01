@@ -44,3 +44,6 @@ What this seems to cover in knowledge and capabilities that I should have:
 - Interpretability
 - Agentic coding (probably want to axe this)
 (unclear if this might be too broad/I will be spread too thin; I think we axe anything that requires frontend basically)
+
+Here are the booths worth visiting:
+TODO

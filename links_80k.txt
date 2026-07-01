@@ -1,0 +1,10 @@
+tilde: https://tilderesearch.com/ and notice https://x.com/tilderesearch (ML researcher: https://jobs.ashbyhq.com/tilderesearch/e850d5b0-a5d6-4b9c-9898-f7addb441508 or kernel engineer)
+goodfire: (i.e. MLE: https://job-boards.greenhouse.io/goodfire/jobs/5019847008) TBD
+Apple TBD (i.e. https://jobs.apple.com/en-gb/details/200640076-3577/ml-safety-engineer?team=SFTWR&utm_source=80000hours&utm_medium=job-board from 80K)
+(evals, so no) METR TBD
+(evals so no) Epoch TBD
+Transluce: https://jobs.gem.com/transluce/am9icG9zdDp31NZm7VBVRjNgxG9dAHuU
+Far AI (senior so unlikely): https://jobs.ashbyhq.com/far.ai/4f6fece8-5ed9-41f4-aed8-902d52dc42ef?embed=js
+Resolution (https://jobs.ashbyhq.com/resolution/ee8f984b-dc19-46e6-93a6-ad4ba66f69ae); some challenges here but it seems surmountable
+Timeaus
+(openai and ant are here but we mention in the other links doc)
