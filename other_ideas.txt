@@ -1,0 +1,29 @@
+Thinking Machines
+Flapping Airplanes
+Fal AI
+Runpod, maybe Vast AI (unlikely)
+Anyscale
+(bad fit) Mechanize
+General Intuition (https://jobs.ashbyhq.com/generalintuition/7dab49be-3551-45ca-9d43-58b339e04417?locationId=2a2e8086-8015-4254-8813-5f2346b1fb85)
+Physical intelligence
+Figure AI
+Skild AI
+1X Tech (has an AI residency)
+Liquid AI
+Odyssey AI
+Decart
+Luma AI
+(not great, bad equity, probably running out) Pika AI
+Cartesia (https://jobs.ashbyhq.com/cartesia/d74e142f-6f20-4e32-8e41-308369ed5106?departmentId=bbb14930-7317-4f1d-950b-fa9417bb8042 but also inference versions etc...)
+Deepgram (nothing on their page though)
+Periodic Labs (https://periodic.com/)
+Prime Intellect (https://jobs.ashbyhq.com/PrimeIntellect/46d9d060-5f48-4491-848f-bafbeb3a4325)
+Humans& (https://humansand.ai; note it's unclear exactly what they are looking for here)
+Hedra (eh but I seem to fit the qualifications: https://www.hedra.com/careers?ashby_jid=b99b5901-84ff-4d39-a50f-77ef9767ddd3)
+Hume AI (eh but I fit the qualifications: https://job-boards.greenhouse.io/humeai/jobs/4003488008)
+Bland AI (again eh but: https://jobs.ashbyhq.com/bland)
+Reflection AI (https://jobs.ashbyhq.com/reflectionai/2c2b06f0-7897-4d22-9669-ec39e706d17a?employmentType=FullTime&locationId=0de217e0-7dc9-4701-ab3b-358e905aa8d9&workplaceType=OnSite)
+dMatrix (seems too hard/too much experience needed: https://jobs.ashbyhq.com/d-Matrix/a8c4d6e0-bc72-4ffc-ab5c-4d8b3769f085?departmentId=cb29f284-4ae4-4c1b-b5d0-97a583cbe748&locationId=8f0d1d43-4c1b-4bf6-b758-b16db9675161)
+Standard Kernel (Chris Rinard co-founded this lmao)
+
+Excluding Fractile since in UK
