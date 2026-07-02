@@ -33,15 +33,20 @@ Cursor/Xai TBD
 (agents) Sierra: https://jobs.ashbyhq.com/Sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e (note this is agent engineering, of which there are probably a bunch and which is not the focus)
 (agents) Salesforce TBD
 Zed: TBD
+Datacurve: https://datacurve.ai/careers/research-engineer
+Datology
+Exa: https://jobs.ashbyhq.com/exa/fcebd301-b473-40dc-b733-362883ac1f37
+
+Snorkel (not a great fit tbh)
 
 What this seems to cover in knowledge and capabilities that I should have:
-- Distributed systems
-- Compilers
-- Algorithms
+- Distributed systems => Let's partially/mostly drop this for now
+- Compilers => Let's mostly drop this for now
+- Algorithms/performance optimization
 - SFT and RL and/or machine learning algorithms
 - Inference and ML Optimization
 - Kernel development
-- Interpretability
+- Interpretability => Mostly drop this one for now
 - Agentic coding (probably want to axe this)
 (unclear if this might be too broad/I will be spread too thin; I think we axe anything that requires frontend basically)
 

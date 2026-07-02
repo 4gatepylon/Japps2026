@@ -1,0 +1,82 @@
+=> TODO try to split these up into specific roles + filter for:
+- Location
+- Roles + skillset
+ => Involves training and/or inference
+ => Involves some kind of systems expertise (kernel development, etc...)
+ => Involves solving hard technical/mathematical problems
+
+<AIE booths>
+Amazon AGI Lab
+Google Deepmind
+Anthropic
+Assembly.ai
+Baseten
+Cerebras
+Cloudflare
+Cognition
+Crusoe
+Deepgram
+Datology
+Datacurve
+Etched
+Exa
+Factory
+Fireworks
+Kimchee
+Microsoft
+Modal
+Nvidia
+OpenAI
+Openhands
+Optiver
+Posthog
+Reducto
+Snorkel
+Together AI
+Vapi
+</AIE boots>
+
+<optimized>
+Anthropic (lab)
+xAI (lab)
+OpenAI (lab)
+Google DeepMind (lab)
+
+Amazon AGI SF lab (neolab)
+Flapping Airplanes (neolab)
+General Intuition (neolab)
+Goodfire (neolab)
+Transluce (neolab)
+Thinking Machines (neolab)
+Resolution (neolab)
+Humans& (neolab)
+Liquid AI (neolab)
+Reflection AI (neolab)
+Standard Kernel (neolab)
+Tilde Research (neolab)
+Cursor (neolab)
+Periodic Labs (neolab)
+Prime Intellect (neolab)
+
+Fireworks AI (infrastructure)
+Together AI (infrastructure)
+Baseten (infrastructure)
+Modal (infrastructure)
+
+Etched (hardware)
+MatX (hardware)
+Cerebras (hardware)
+Nvidia (hardware)
+
+Physical Intelligence (robotics)
+Skild AI (robotics)
+Figure AI (robotics)
+
+Fal AI (generative)
+Cartesia (generative)
+Decart (generative)
+Luma AI (generative)
+Odyssey AI (generative)
+
+Reducto (applied)
+</optimized>
