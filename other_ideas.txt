@@ -26,4 +26,6 @@ Reflection AI (https://jobs.ashbyhq.com/reflectionai/2c2b06f0-7897-4d22-9669-ec3
 dMatrix (seems too hard/too much experience needed: https://jobs.ashbyhq.com/d-Matrix/a8c4d6e0-bc72-4ffc-ab5c-4d8b3769f085?departmentId=cb29f284-4ae4-4c1b-b5d0-97a583cbe748&locationId=8f0d1d43-4c1b-4bf6-b758-b16db9675161)
 Standard Kernel (Chris Rinard co-founded this lmao)
 
+GDM: https://job-boards.greenhouse.io/deepmind/jobs/7171371?_bhlid=a1fd6b6f476697260e38e7e85021569132a1cd28
+
 Excluding Fractile since in UK

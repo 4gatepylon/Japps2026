@@ -34,7 +34,33 @@ Reducto
 Snorkel
 Together AI
 Vapi
+
+General questions on my my mind:
+- Are you hiring?
+- Do you train ML models and/or do research? What kinds? Do you do inference, kernel optimization, or other performance engineering stuff?
+- What does a regular day look like in the relevant role?
+- What are the biggest challenges to the company and/or roles that may be a fit for me?
+- What are the scarcest skillset(s) that you are looking for? What do you need to succeed?
+- How do you interface with other parts of the stack and/or economy?
 </AIE boots>
+
+TODO how to get better coverage?
+<referrals>
+Amazon: Garret, Rahul
+Google: Praveen, Nithya, Tong Zhao (and more)
+Nvidia: Alex
+OpenAI: Randy Zhao, Meyer Zinn (and a few others)
+Anthropic: Shaya, David Kobrosky, John Yan
+Salesforce
+Apple: Matias Franco
+Transluce: ask around for Vincent
+Reducto
+xAI: Aman Gottumukala
+Flapping airplanes
+Etched
+Goodfire (duh)
+TODO - more
+</referrals>
 
 <optimized>
 Anthropic (lab)
